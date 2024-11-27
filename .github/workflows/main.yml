@@ -1,4 +1,4 @@
-name: TimeTracker
+name: Time-Tracker
 on:
   push:
     branches:
