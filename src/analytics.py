@@ -118,6 +118,5 @@ def compute_analytics(events):
     print("\nAverage time per weekday:")
     for day, time in avg_time_per_weekday.items():
         print(f"- {['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'][day]}: {format_duration(time)}")
-
     # Print out the average tracked time per day
     print(f"\nAverage tracked time per day: {format_duration(avg_tracked_time)}")
