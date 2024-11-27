@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 name: Time-Tracker
-=======
-name: TimeTracker
->>>>>>> 66fd78bcd114ff2880ffea154a420caa29847b6b
 on:
   push:
     branches:
@@ -35,8 +31,4 @@ jobs:
       - name: Verify setup
         run: |
           python src/time_tracker.py
-<<<<<<< HEAD
           
-=======
-          
->>>>>>> 66fd78bcd114ff2880ffea154a420caa29847b6b
