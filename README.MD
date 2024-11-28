@@ -132,10 +132,13 @@ pip install -r requirements.txt
 ```plaintext
 TimeTracker/
 ├── src/
+│   ├──_init_.py    # Main application
 │   ├── time_tracker.py    # Main application
 │   ├── analytics.py       # Analytics computations
 │   ├── utils.py           # Utility functions (e.g., file handling)
-│
+│── test/
+|    |──_init_.py
+|    |──test_time_tracker.py
 ├── .github/
 │   └── workflows/
 │       └── ci.yml          # GitHub Actions workflow for CI
