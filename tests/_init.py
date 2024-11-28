@@ -1,4 +1,4 @@
-# tests/__init__.py
+# tests/__init.py
 
 import sys
 from os.path import abspath, dirname
