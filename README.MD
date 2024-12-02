@@ -103,6 +103,13 @@ Generate analytics on logged tasks with:
 python src/time_tracker.py analytics
 ```
 
+### Tests
+Testing the code.
+
+```bash
+python -m unittest tests/test_time_tracker.py
+```
+
 **This will display**:
 - Total time spent on each task.
 - Average time spent on tasks for each weekday.
