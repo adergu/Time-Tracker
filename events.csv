@@ -1,0 +1,25 @@
+timestamp,event,activity
+2024-11-19T11:50:00.045145,start,Fixing serialization bug
+2024-11-19T11:50:13.216597,stop,Fixing serialization bug
+2024-11-19T11:55:03.461950,start,Fixing serialization bug
+2024-11-19T11:57:56.664881,stop,Fixing serialization bug
+2024-11-19T11:58:42.563670,start,UI design
+2024-11-19T12:03:04.639067,stop,UI design
+2024-11-19T16:18:27.680317,start,Coffe
+2024-11-19T16:19:12.945533,stop,Coffe
+2024-11-21T11:49:56.932598,start,Sprit One
+2024-11-21T11:50:54.456186,stop,Sprit One
+2024-11-21T12:22:30.273737,start,Coffe
+2024-11-21T12:22:35.186590,stop,Coffe
+2024-11-21T12:45:28.220290,start,Coding
+2024-11-21T12:46:17.754883,stop,Coding
+2024-11-21T13:53:29.486211,start,Project Documentation
+2024-11-21T18:44:33.363618,stop,Project Documentation
+2024-11-21T18:44:46.297663,start,Coding
+2024-11-22T11:46:03.387444,stop,Coding
+2024-11-22T11:59:38.652572,start,Coffe
+2024-11-22T12:00:02.049752,stop,Coffe
+2024-11-24T15:23:13.786424,start,Configuration
+2024-11-24T15:29:16.857480,stop,Configuration
+2024-11-24T16:00:53.997754,start,Coffe
+2024-11-24T16:55:39.066260,stop,Coffe
