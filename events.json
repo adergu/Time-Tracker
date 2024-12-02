@@ -1,0 +1,122 @@
+[
+    {
+        "timestamp": "2024-11-19T11:50:00.045145",
+        "event": "start",
+        "activity": "Fixing serialization bug"
+    },
+    {
+        "timestamp": "2024-11-19T11:50:13.216597",
+        "event": "stop",
+        "activity": "Fixing serialization bug"
+    },
+    {
+        "timestamp": "2024-11-19T11:55:03.461950",
+        "event": "start",
+        "activity": "Fixing serialization bug"
+    },
+    {
+        "timestamp": "2024-11-19T11:57:56.664881",
+        "event": "stop",
+        "activity": "Fixing serialization bug"
+    },
+    {
+        "timestamp": "2024-11-19T11:58:42.563670",
+        "event": "start",
+        "activity": "UI design"
+    },
+    {
+        "timestamp": "2024-11-19T12:03:04.639067",
+        "event": "stop",
+        "activity": "UI design"
+    },
+    {
+        "timestamp": "2024-11-19T16:18:27.680317",
+        "event": "start",
+        "activity": "Coffe"
+    },
+    {
+        "timestamp": "2024-11-19T16:19:12.945533",
+        "event": "stop",
+        "activity": "Coffe"
+    },
+    {
+        "timestamp": "2024-11-21T11:49:56.932598",
+        "event": "start",
+        "activity": "Sprit One"
+    },
+    {
+        "timestamp": "2024-11-21T11:50:54.456186",
+        "event": "stop",
+        "activity": "Sprit One"
+    },
+    {
+        "timestamp": "2024-11-21T12:22:30.273737",
+        "event": "start",
+        "activity": "Coffe"
+    },
+    {
+        "timestamp": "2024-11-21T12:22:35.186590",
+        "event": "stop",
+        "activity": "Coffe"
+    },
+    {
+        "timestamp": "2024-11-21T12:45:28.220290",
+        "event": "start",
+        "activity": "Coding"
+    },
+    {
+        "timestamp": "2024-11-21T12:46:17.754883",
+        "event": "stop",
+        "activity": "Coding"
+    },
+    {
+        "timestamp": "2024-11-21T13:53:29.486211",
+        "event": "start",
+        "activity": "Project Documentation"
+    },
+    {
+        "timestamp": "2024-11-21T18:44:33.363618",
+        "event": "stop",
+        "activity": "Project Documentation"
+    },
+    {
+        "timestamp": "2024-11-21T18:44:46.297663",
+        "event": "start",
+        "activity": "Coding"
+    },
+    {
+        "timestamp": "2024-11-22T11:46:03.387444",
+        "event": "stop",
+        "activity": "Coding"
+    },
+    {
+        "timestamp": "2024-11-22T11:59:38.652572",
+        "event": "start",
+        "activity": "Coffe"
+    },
+    {
+        "timestamp": "2024-11-22T12:00:02.049752",
+        "event": "stop",
+        "activity": "Coffe"
+    },
+    {
+        "timestamp": "2024-11-24T15:23:13.786424",
+        "event": "start",
+        "activity": "Configuration"
+    },
+    {
+        "timestamp": "2024-11-24T15:29:16.857480",
+        "event": "stop",
+        "activity": "Configuration"
+    },
+    {
+        "timestamp": "2024-11-24T16:00:53.997754",
+        "event": "start",
+        "activity": "Coffe"
+    },
+    {
+        "timestamp": "2024-11-24T16:55:39.066260",
+        "event": "stop",
+        "activity": "Coffe"
+    }
+]
