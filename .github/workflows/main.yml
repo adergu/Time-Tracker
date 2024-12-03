@@ -35,6 +35,6 @@ jobs:
       
       - name: Verify Unittest
         run: |
-          python -m tests/test_time_tracker.py
+          python -m unittest tests/test_time_tracker.py
       
           
