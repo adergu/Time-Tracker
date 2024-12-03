@@ -31,4 +31,10 @@ jobs:
       - name: Verify setup
         run: |
           python src/time_tracker.py
+      # Verify Unit test
+      
+      - name: Verify Unittest
+        run: |
+          python -m test/test_time_tracker.py
+      
           
